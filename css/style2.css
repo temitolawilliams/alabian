@@ -1,0 +1,103 @@
+	.list{
+		display: inline-block;
+	}
+	.Intro{
+	text-align: center;
+	margin: auto;
+
+	}
+
+	.Into img{
+		vertical-align: middle;
+		margin: auto;
+		width: 200px; height: 200px;
+	}
+
+	.Intro h2{
+		text-transform: uppercase;
+	}
+
+	.Intro h3{
+		text-transform: capitalize;
+	}
+	.Intro{
+		color: grey;
+		background-image: url("profile.jpg");
+		background-position: center center;
+	}
+	.div {
+		text-align: center;
+		background-color: blue;
+		margin:auto;
+
+	}
+	.div p::first-letter{
+		font-size: 35px;
+		color: yellow
+		font-style:italic;
+		
+	}
+	.div p span{
+		color: yellow;
+		
+	}
+	h3{	color: white;
+		text-transform: uppercase;
+	}
+	.expense{
+		background-color: blue;
+		color: white;
+		text-align: center;
+		}
+	table{
+		margin-left: auto;
+		margin-right: auto;
+
+	}
+	}
+	.experience h2{
+		background-color: grey;
+		color: black;
+		text-align: center;
+
+
+	}
+	.experience{
+		color: grey;
+	}
+	.experience p h2{
+		color: white;
+
+	}
+	.experience p{
+		background-color: blue;
+	}
+	.experience p::first-letter{
+		font-style: italic;
+		font-size: 30px;
+		color: yellow;
+	}
+	.experience li{
+		list-style-type: lower-alpha;
+	}
+	.experience img{
+		height: 100px;
+		width: 100px;
+	}
+	.portfolio img{
+		height: 400px;
+		width: 400px;
+	}
+	.download{
+		text-align: center;
+		background-color: blue;
+		color: grey;
+	}
+	.download h2{
+		color: white;
+		text-transform: uppercase;
+	}
+	 a{
+		font-weight: bold;
+		color: yellow;
+	}
